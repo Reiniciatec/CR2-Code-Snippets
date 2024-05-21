@@ -18,9 +18,10 @@ En este repositorio, encontrarán una colección de fragmentos de código diseñ
 
 ## 📂 Estructura del Repositorio
 
-- `inicio/`: Fragmentos básicos para empezar.
-- `problemas_comunes/`: Soluciones a problemas frecuentes.
-- `programacion_avanzada/`: Ejemplos para proyectos avanzados.
+- `01-Instalacion/`: Como empezar a preparar tu entorno de desarrollo con python.
+- `02-Programacion_Python/`: Tutoriales de programacion basica con python.
+- `03-Ejercicios_Python/`: Ejercicios y retos personales para los interesados.
+- `04-Problemas_mBot/`: Fragmentos de codigo explicados a detalle utiles para su performance.
 
 ## 🌟 Contribuir
 
