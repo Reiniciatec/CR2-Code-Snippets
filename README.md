@@ -1,36 +1,26 @@
 # CR2 Code Snippets 🚀
 
-¡Bienvenidos al repositorio de **CR2 Code Snippets**! 🤖
+¡Bienvenidos al repositorio de **Python creado por CR2**! 🤖
 
-En este repositorio, encontrarán una colección de fragmentos de código diseñados para resolver problemas específicos y ayudarles a avanzar al siguiente nivel en programación. Estos snippets están aquí para que puedan reutilizarlos en sus proyectos de robótica con el mBot 2, permitiéndoles entender a mayor profundidad su funcionamiento y aplicarlos de manera práctica.
+En este repositorio, dispondran de todo el material necesario para dar sus primeros pasos en la programacion. Estos codigos están aquí para que puedan reutilizarlos en sus proyectos de de programacion y robótica con el mBot 2.
 
-## 📜 ¿Qué encontrarás aquí?
+## Tabla de Contenidos
 
-- **Fragmentos de Código de Inicio**: Snippets básicos para comenzar con la programación del mBot 2.
-- **Soluciones a Problemas Comunes**: Ejemplos detallados que abordan y resuelven desafíos típicos que pueden enfrentar.
-- **Ejemplos de Programación Avanzada**: Fragmentos de código más complejos para proyectos avanzados, ayudándote a expandir tus conocimientos y habilidades.
-
-## 🛠️ ¿Cómo utilizar estos snippets?
-
-1. **Explorar y Seleccionar**: Navega por las diferentes categorías y encuentra el snippet que necesitas.
-2. **Copiar y Pegar**: Copia el fragmento de código y pégalo en tu entorno de desarrollo.
-3. **Personalizar y Ejecutar**: Ajusta el código según tus necesidades y ejecútalo para ver cómo resuelve el problema específico.
-
-## 📂 Estructura del Repositorio
-
-- `01-Instalacion/`: Como empezar a preparar tu entorno de desarrollo con python.
-- `02-Programacion_Python/`: Tutoriales de programacion basica con python.
-- `03-Ejercicios_Python/`: Ejercicios y retos personales para los interesados.
-- `04-Problemas_mBot/`: Fragmentos de codigo explicados a detalle utiles para su performance.
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Estructura del Repositorio](#estructura-del-repositorio)
+  - [Carpeta Principal](#carpeta-principal)
+  - [Módulos](#módulos)
+  - [Tests](#tests)
+  - [Documentación](#documentación)
+- [Requisitos](#requisitos)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
 
 ## 🌟 Contribuir
-
 Nos encantaría recibir tus aportaciones. Si tienes un fragmento de código útil o una solución a un problema que te gustaría compartir, no dudes en hacer un fork de este repositorio y enviar un pull request.
-
-## 📬 Soporte
-
-Si tienes alguna pregunta o necesitas ayuda con algún snippet, por favor abre un issue en este repositorio. Estamos aquí para ayudarte a superar cualquier desafío y a mejorar tus habilidades de programación.
-
 ---
 
 ¡Explora, aprende y lleva tus habilidades de programación al siguiente nivel con CR2! 🚀
+Alejandro Diaz ⭐
