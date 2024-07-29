@@ -6,17 +6,16 @@ En este repositorio, dispondran de todo el material necesario para dar sus prime
 
 ## Tabla de Contenidos
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Python](./src/1.-python)
   - [Carpeta Principal](#carpeta-principal)
   - [Módulos](#módulos)
   - [Tests](#tests)
   - [Documentación](#documentación)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [mBot2](./src/2.-mBot2/)
+  - [Carpeta Principal](#carpeta-principal)
+  - [Módulos](#módulos)
+  - [Tests](#tests)
+  - [Documentación](#documentación)
 
 ## 🌟 Contribuir
 
