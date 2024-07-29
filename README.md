@@ -7,6 +7,9 @@ En este repositorio, dispondran de todo el material necesario para dar sus prime
 ## Tabla de Contenidos
 
 - [Python](./src/1.-python/README.md)
+  - [Instalacion](./src/1.-python/1.-instalacion/README.md)
+  - [Programacion](./src/1.-python/2.-programacion/README.md)
+  - [Ejercicios](./src//1.-python//3.-ejercicios/README.md)
 - [mBot2](./src/2.-mBot2/README.md)
 
 ## 🌟 Contribuir
