@@ -19,6 +19,7 @@ En este repositorio, dispondran de todo el material necesario para dar sus prime
 - [Licencia](#licencia)
 
 ## 🌟 Contribuir
+
 Nos encantaría recibir tus aportaciones. Si tienes un fragmento de código útil o una solución a un problema que te gustaría compartir, no dudes en hacer un fork de este repositorio y enviar un pull request.
 ---
 
